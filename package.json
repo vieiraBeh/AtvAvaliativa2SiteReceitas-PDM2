@@ -1,0 +1,15 @@
+{
+  "name": "receitas-jeong",
+  "version": "1.0.0",
+  "description": "Site de receitas coreanas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Brenda Vieira & Luara Dias",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.4"
+  }
+}
