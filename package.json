@@ -10,6 +10,7 @@
   "author": "Brenda Vieira & Luara Dias",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "serve": "^13.0.4"
   }
 }
