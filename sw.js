@@ -1,6 +1,5 @@
 let cacheName="receitas-jeong";
-let filesToCache = ["/", "/index.html",
-    "/css/style.css", "/js/main.js"];
+let filesToCache = ["/", "/index.html", "/css/style.css", "/js/main.js", "page/carnes.html", "page/massas.html", "page/doces.html"];
 
 /* inicializando a service worker e fazendo o download do conteúdo da aplicação */
 self.addEventListener("install", (e) => {
